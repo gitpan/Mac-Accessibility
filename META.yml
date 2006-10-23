@@ -1,0 +1,18 @@
+---
+name: Mac-Accessibility
+version: 1.0
+author:
+  - 'Miklos Fazekas <boga@mac.com>'
+abstract: Accessibility API perl wrappers.
+license: perl
+requires:
+  perl: 5.006
+build_requires:
+  ExtUtils::CBuilder: 0.15
+  Module::Build: 0.15
+generated_by: Module::Build version 0.2805
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
+resources:
+  license: http://dev.perl.org/licenses/
